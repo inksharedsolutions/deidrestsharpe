@@ -70,7 +70,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         target="_blank"
-                                        href="https://www.amazon.com/God-Queen-II-Deidre-Sharpe/dp/1643458175/"
+                                        href="https://www.goodreads.com/book/show/55029608-the-god-queen-ii?ac=1&from_search=true&qid=ptGOMnfXfz&rank=2"
                                         rel="noreferrer"
                                     >
 
